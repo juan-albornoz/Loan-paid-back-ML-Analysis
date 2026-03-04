@@ -30,7 +30,7 @@ El dataset corresponde a información financiera y sociodemográfica de solicita
 
 | Característica | Detalle |
 |---|---|
-| **Registros totales** | ~800,000 |
+| **Registros totales** | ~500,000 |
 | **Columnas originales** | 13 |
 | **Variable objetivo** | `loan_paid_back` (1: Pagado, 0: No pagado) |
 | **Tipo de problema** | Clasificación binaria supervisada |
