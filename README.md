@@ -3,7 +3,7 @@
 ## Contexto del Proyecto
 Este proyecto fue desarrollado como trabajo final para el módulo de Aprendizaje Automático del Máster en Big Data Analytics en la Universidad Europea de Valencia. Demuestra un pipeline completo de Machine Learning aplicado a un problema real de evaluación de riesgo crediticio bancario, desde la exploración de datos hasta la generación de predicciones para un challenge de Kaggle.
 
-El proyecto aborda el problema de clasificación binaria supervisada para predecir si un cliente bancario pagará o no su préstamo, utilizando información financiera y sociodemográfica de solicitantes de crédito.
+El proyecto aborda el problema de clasificación binaria supervisada para predecir si un cliente bancario pagará o no su préstamo, utilizando información financiera y sociodemográfica de solicitantes de crédito. Cabe destacar que este proyecto se hizo 100% en Google Colab.
 
 | Campo | Detalle |
 |---|---|
